@@ -16,7 +16,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	url: "",
+	url: "https://dev-portfolio-rose.vercel.app/",
 	linkedin: "https://www.linkedin.com/in/vineeth-krishna-407838249/",
 	github: "https://github.com/vineeth-krishna-1234",
 	instagram: "https://www.instagram.com/vineeth._krishna",
@@ -251,7 +251,7 @@ export const seoData = {
 		"A passionate Full Stack Web Developer and Blockchain Developer.",
 	author: "vineeth krishna",
 	image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-	url: "",
+	url: "https://dev-portfolio-rose.vercel.app/",
 	keywords: [
 		"vineeth",
 		"vineethkrishna",
