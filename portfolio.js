@@ -248,7 +248,7 @@ export const showContactUs = false;
 export const seoData = {
 	title: "Vineeth Krishna",
 	description:
-		"A passionate Full Stack Web Developer and Blockchain Developer.",
+		"An engineer obsessed with technology and fondness for developing innovative software applications",
 	author: "vineeth krishna",
 	image: "https://drive.google.com/file/d/1N2R69d7iOpOJUIiSdYnwLIRn05Ei8frp/view?usp=share_link",
 	url: "https://dev-portfolio-rose.vercel.app/",
