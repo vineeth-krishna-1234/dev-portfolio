@@ -250,7 +250,7 @@ export const seoData = {
 	description:
 		"A passionate Full Stack Web Developer and Blockchain Developer.",
 	author: "vineeth krishna",
-	image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
+	image: "https://drive.google.com/file/d/1N2R69d7iOpOJUIiSdYnwLIRn05Ei8frp/view?usp=share_link",
 	url: "https://dev-portfolio-rose.vercel.app/",
 	keywords: [
 		"vineeth",
