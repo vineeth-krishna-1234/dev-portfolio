@@ -4,9 +4,9 @@ export const greetings = {
 	name: "Vineeth krishna",
 	title: "Hola, I'm vineeth krishna",
 	description:
-		"I'm a software developer coz it feels kind cool that way",
+		"Another Software Developer who plays with computer",
 	resumeLink:
-		"https://drive.google.com/file/d/108rRUT5_CxKJLP5zR2Zt0a6_QhtNZA40/view?usp=share_link",
+		"https://drive.google.com/file/d/1R7Lw3SMVEn_ne_19JOOADn-Xwpjyc55a/view?usp=share_link",
 };
 
 export const openSource = {
@@ -16,12 +16,12 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	url: "https://dev-portfolio-rose.vercel.app/",
-	linkedin: "https://www.linkedin.com/in/vineeth-krishna-407838249/",
-	github: "https://github.com/vineeth-krishna-1234",
-	instagram: "https://www.instagram.com/vineeth._krishna",
+	url: "https://bit.ly/vineeth_linktree",
+	linkedin: "https://bit.ly/vineeth_in",
+	github: "https://bit.ly/vineeth_github",
+	instagram: "https://bit.ly/vineeth_instagram",
 	facebook: "",
-	twitter: "https://twitter.com/Rick_Sancherz",
+	twitter: "https://bit.ly/vineeth_telegram",
 };
 
 export const skillsSection = {
@@ -36,49 +36,92 @@ export const skillsSection = {
 			],
 			softwareSkills: [
 				{
-					skillName: "HTML-5",
-					fontAwesomeClassname: "vscode-icons:file-type-html",
-				},
-				{
-					skillName: "CSS-3",
-					fontAwesomeClassname: "vscode-icons:file-type-css",
+					skillName: "Python",
+					fontAwesomeClassname: "skill-icons:python-dark",
 				},
 				{
 					skillName: "JavaScript",
-					fontAwesomeClassname: "logos:javascript",
+					fontAwesomeClassname: "skill-icons:javascript",
+				},
+				{
+					skillName: "TypeScript",
+					fontAwesomeClassname: "skill-icons:typescript",
+				},
+				{
+					skillName: "HTML",
+					fontAwesomeClassname: "skill-icons:html",
+				},
+				{
+					skillName: "CSS",
+					fontAwesomeClassname: "skill-icons:css",
 				},
 				{
 					skillName: "Reactjs",
-					fontAwesomeClassname: "vscode-icons:file-type-reactjs",
+					fontAwesomeClassname: "skill-icons:react-dark",
 				},
 				{
-					skillName: "mysql",
-					fontAwesomeClassname: "logos:mysql",
-				},
-				{
-					skillName: "Python",
-					fontAwesomeClassname: "logos:python",
+					skillName: "React Native",
+					fontAwesomeClassname: "skill-icons:react-light",
 				},
 				{
 					skillName: "Django",
-					fontAwesomeClassname: "vscode-icons:file-type-django",
+					fontAwesomeClassname: "skill-icons:django",
 				},
-
+				{
+					skillName: "Nextjs",
+					fontAwesomeClassname: "skill-icons:nextjs-dark",
+				},
+				{
+					skillName: "Expressjs",
+					fontAwesomeClassname: "skill-icons:expressjs-dark",
+				},
+				{
+					skillName: "Mysql",
+					fontAwesomeClassname: "skill-icons:mysql-dark",
+				},
+				{
+					skillName: "MongoDb",
+					fontAwesomeClassname: "skill-icons:mongodb",
+				},
+				{
+					skillName: "Redis",
+					fontAwesomeClassname: "skill-icons:redis-dark",
+				},
+				{
+					skillName: "Postgresql",
+					fontAwesomeClassname: "skill-icons:postgresql-dark",
+				},
 				{
 					skillName: "Redux",
-					fontAwesomeClassname: "logos:redux",
+					fontAwesomeClassname: "skill-icons:redux",
 				},
 				{
-					skillName: "wordpress",
-					fontAwesomeClassname: "logos:wordpress",
+					skillName: "Vite",
+					fontAwesomeClassname: "skill-icons:vite-dark",
 				},
 				{
-					skillName: "node",
-					fontAwesomeClassname: "logos:nodejs",
+					skillName: "Wordpress",
+					fontAwesomeClassname: "skill-icons:wordpress",
 				},
 				{
-					skillName: "git",
-					fontAwesomeClassname: "logos:git",
+					skillName: "Node",
+					fontAwesomeClassname: "skill-icons:nodejs-dark",
+				},
+				{
+					skillName: "Tailwind Css",
+					fontAwesomeClassname: "skill-icons:tailwindcss-dark",
+				},
+				{
+					skillName: "Material ui",
+					fontAwesomeClassname: "skill-icons:materialui-dark",
+				},
+				{
+					skillName: "Git",
+					fontAwesomeClassname: "skill-icons:git",
+				},
+				{
+					skillName: "Github",
+					fontAwesomeClassname: "skill-icons:github-dark",
 				},
 			],
 		},
@@ -91,42 +134,42 @@ export const skillsSection = {
 			softwareSkills: [
 				// ? Check README To get icon details
 				{
-					skillName: "react native",
-					fontAwesomeClassname: "vscode-icons:file-type-reactjs",
+					skillName: "React Native",
+					fontAwesomeClassname: "skill-icons:react-light",
 				},
 				{
-					skillName: "android",
-					fontAwesomeClassname: "logos:android",
+					skillName: "Android",
+					fontAwesomeClassname: "skill-icons:androidstudio-dark",
 				},
 				{
-					skillName: "javascript",
-					fontAwesomeClassname: "logos:javascript",
+					skillName: "Javascript",
+					fontAwesomeClassname: "skill-icons:javascript",
 				},
 				{
-					skillName: "firebase",
+					skillName: "Firebase",
 					fontAwesomeClassname: "logos:firebase",
 				},
 				{
 					skillName: "Github",
-					fontAwesomeClassname: "akar-icons:github-fill",
+					fontAwesomeClassname: "skill-icons:github-dark",
 				},
 				{
-					skillName: "bootstrap",
-					fontAwesomeClassname: "logos:bootstrap",
+					skillName: "Bootstrap",
+					fontAwesomeClassname: "skill-icons:bootstrap",
 				},
 				{
-					skillName: "git",
-					fontAwesomeClassname: "logos:git",
+					skillName: "Git",
+					fontAwesomeClassname: "skill-icons:git",
 				},
 				{
-					skillName: "vs code",
-					fontAwesomeClassname: "logos:visual-studio-code",
+					skillName: "Vs code",
+					fontAwesomeClassname: "skill-icons:vscode-dark",
 				},
 				
 			],
 		},
 		{
-			title: "Api development",
+			title: "Api development & Hosting",
 			lottieAnimationFile: "/lottie/skills/ethereum.json", // Path of Lottie Animation JSON File
 			skills: [
 				
@@ -134,15 +177,47 @@ export const skillsSection = {
 			softwareSkills: [
 				{
 					skillName: "Python",
-					fontAwesomeClassname: "logos:python",
+					fontAwesomeClassname: "skill-icons:python-dark",
 				},
 				{
-					skillName: "django",
-					fontAwesomeClassname: "logos:django",
+					skillName: "Django",
+					fontAwesomeClassname: "skill-icons:django",
 				},
 				{
-					skillName: "mysql",
-					fontAwesomeClassname: "logos:mysql",
+					skillName: "Mysql",
+					fontAwesomeClassname: "skill-icons:mysql-dark",
+				},
+				{
+					skillName: "Node",
+					fontAwesomeClassname: "skill-icons:nodejs-dark",
+				},
+				{
+					skillName: "Express",
+					fontAwesomeClassname: "skill-icons:expressjs-dark",
+				},
+				{
+					skillName: "MongoDb",
+					fontAwesomeClassname: "skill-icons:mongodb",
+				},
+				{
+					skillName: "Redis",
+					fontAwesomeClassname: "skill-icons:redis-dark",
+				},
+				{
+					skillName: "Docker",
+					fontAwesomeClassname: "skill-icons:docker",
+				},
+				{
+					skillName: "Aws",
+					fontAwesomeClassname: "skill-icons:aws-dark",
+				},
+				{
+					skillName: "Vercel",
+					fontAwesomeClassname: "skill-icons:vercel-dark",
+				},
+				{
+					skillName: "Netlify",
+					fontAwesomeClassname: "skill-icons:netlify-dark",
 				},
 		
 			],
@@ -260,5 +335,6 @@ export const seoData = {
 		"Portfolio",
 		"vineeth Portfolio ",
 		"vineeth krishna Portfolio",
+		"Freelancing",
 	],
 }

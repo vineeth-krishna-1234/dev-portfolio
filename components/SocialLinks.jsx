@@ -87,7 +87,8 @@ const SocialLinks = () => {
 					aria-label="Twitter"
 				>
 					<span className="btn-inner--icon">
-						<i className="fa fa-twitter" />
+						<i class="fa fa-telegram"></i>
+
 					</span>
 				</Button>
 			)}
